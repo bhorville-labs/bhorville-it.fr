@@ -17,7 +17,7 @@ window.SITE_CONFIG = {
 
   /* --- Contact et liens externes --- */
   email:            "bernard.horville@ik.me",
-  githubUrl:        "https://github.com/bhorville-it",
+  githubUrl:        "https://github.com/bhorville-labs",
   onPremSoftwareUrl: "https://onpremsoftware.com",
   horvilleLabsUrl:  "https://horville-labs.fr",
 
