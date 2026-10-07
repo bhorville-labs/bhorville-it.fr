@@ -32,3 +32,6 @@ yarn-error.log*
 # Fichiers de travail
 prompt.txt
 refacto.txt
+
+# Fichiers de support
+support/
