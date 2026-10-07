@@ -43,7 +43,7 @@ window.SITE_CONFIG = {
   title: "IT & Software",
   domain:  "bhorville-it.fr",
   baseUrl: "https://bhorville-it.fr/",
-  email:             "bernard.horville@ik.me",
+  email:             "contact@bhorville-it.fr",
   githubUrl:         "https://github.com/bhorville-it",
   onPremSoftwareUrl: "https://onpremsoftware.com",
   horvilleLabsUrl:   "https://horville-labs.fr",
