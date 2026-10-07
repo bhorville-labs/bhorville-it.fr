@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Bernard Horville — IT &amp; Software">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+
+  <rect x="96" y="200" width="72" height="72" rx="16" fill="#2563eb"/>
+  <text x="132" y="248" font-family="Inter, system-ui, Arial, sans-serif" font-size="30" font-weight="700"
+        text-anchor="middle" fill="#ffffff">BH</text>
+
+  <text x="96" y="360" font-family="Inter, system-ui, Arial, sans-serif" font-size="72" font-weight="700"
+        letter-spacing="-2" fill="#ffffff">Bernard Horville</text>
+
+  <text x="96" y="424" font-family="Inter, system-ui, Arial, sans-serif" font-size="34" font-weight="600"
+        fill="#93b4ff">IT &amp; Software</text>
+
+  <text x="96" y="490" font-family="Inter, system-ui, Arial, sans-serif" font-size="24" font-weight="400"
+        fill="#b9c2d0">Infrastructure · Réseaux · Sécurité · Architecture · On-premise</text>
+
+  <text x="96" y="556" font-family="Inter, system-ui, Arial, sans-serif" font-size="20" font-weight="500"
+        fill="#767f8d">bhorville-it.fr</text>
+</svg>
