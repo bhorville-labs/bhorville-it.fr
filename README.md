@@ -1,6 +1,6 @@
 # bhorville-it.fr
 
-Site professionnel (vitrine) de **Bernard Horville** — IT, logiciels et projets personnels.
+Site professionnel (vitrine) — IT, logiciels et projets personnels.
 
 Site statique, sans framework ni build system. Compatible **GitHub Pages**.
 
@@ -39,7 +39,7 @@ C'est le seul fichier à modifier pour changer l'identité, les liens ou l'état
 
 ```js
 window.SITE_CONFIG = {
-  name:  "Bernard Horville",
+  name:  "bhorville-it.fr",
   title: "IT & Software",
   domain:  "bhorville-it.fr",
   baseUrl: "https://bhorville-it.fr/",
@@ -80,4 +80,4 @@ window.SITE_CONFIG = {
 
 ## Licence
 
-Contenu et code propres à Bernard Horville.
+Contenu et code propres au site.
