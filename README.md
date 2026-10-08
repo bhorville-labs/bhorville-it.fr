@@ -19,6 +19,8 @@ Site statique, sans framework ni build system. Compatible **GitHub Pages**.
 │   ├── og-image.svg
 │   └── apple-touch-icon.svg
 ├── favicon.svg
+├── robots.txt
+├── sitemap.xml
 └── README.md
 ```
 
